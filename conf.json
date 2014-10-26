@@ -1,0 +1,8 @@
+{
+    "DBUser": "pingtastic",
+    "DBPass": "pingtastic",
+    "DBDatabase": "pingtastic",
+    "DBHost": "172.16.1.172",
+    "DBPort": "3306",
+    "AlexaURL": "http://s3.amazonaws.com/alexa-static/top-1m.csv.zip"
+}
