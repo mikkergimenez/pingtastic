@@ -17,10 +17,10 @@ Put mysql username, password, database and dbip in the config.ini file.
 
 initialize the database by typing:
 
-pingtastic getAlexa
+`pingtastic getAlexa`
 
 run the server by typing:
 
-pingtastic server
+`pingtastic server`
 
-Pingtastic would probably run best if monitored by an application like [http://supervisord.org/]supervisord
+Pingtastic would probably run best if monitored by an application like [supervisord](http://supervisord.org/)
